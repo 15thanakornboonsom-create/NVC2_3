@@ -12,6 +12,7 @@
 
 <h1 class="">j</h1>
 <h2 class="">go home</h2>
+<p class="">Lorem ipsum dolor sit amet consectetur adipisicing elit. Inventore molestiae dolor a corrupti iure eos natus sit ea aliquam soluta, enim vel tempora nemo architecto odit quas nesciunt, tempore cum!</p>
    
 </body>
 
