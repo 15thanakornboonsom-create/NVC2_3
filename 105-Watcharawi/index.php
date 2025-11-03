@@ -11,7 +11,7 @@
 
 
 <body>
-<nav class="div">
+<nav class="navbar">
 
 <h1 class="h1">Hello world</h1>
 <h2 class="h1">Hello Bro</h2>

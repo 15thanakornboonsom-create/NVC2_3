@@ -1,15 +1,61 @@
-.div{
-  display: flex;
-  flex-direction: row;
-  margin: 0 ;
-  background-color: lightcyan;
-  width: 50px;
-  height: 50px;
+ body {
+      margin: 0;
+      padding: 0;
+      font-family: 'Kanit', sans-serif;
+      background: linear-gradient(135deg, #89f7fe, #66a6ff);
+      color: #333;
+      display: flex;
+      justify-content: center;
+      align-items: center;
+      min-height: 100vh;
+    }
 
-}
+    /* 🧭 สไตล์ของ Navbar */
+    .navbar {
+      background: rgba(255, 255, 255, 0.8);
+      backdrop-filter: blur(10px);
+      padding: 40px 60px;
+      border-radius: 20px;
+      box-shadow: 0 10px 25px rgba(0, 0, 0, 0.1);
+      text-align: center;
+      width: 80%;
+      max-width: 600px;
+      transition: all 0.3s ease;
+    }
 
+    /* เอฟเฟกต์ hover */
+    .navbar:hover {
+      transform: translateY(-5px);
+      box-shadow: 0 15px 35px rgba(0, 0, 0, 0.15);
+    }
 
-.h1{
-  color: aquamarine;
+    /* 📝 สไตล์ตัวอักษร */
+    .h1 {
+      color: #222;
+      margin: 10px 0;
+    }
 
-}
+    h1.h1 {
+      font-size: 2.5rem;
+      font-weight: 700;
+    }
+
+    h2.h1 {
+      font-size: 1.5rem;
+      color: #555;
+      font-weight: 400;
+      margin-bottom: 20px;
+    }
+
+    p {
+      font-size: 1rem;
+      color: #444;
+      line-height: 1.8;
+    }
+
+    /* 💫 เพิ่มลูกเล่นเล็กน้อย */
+    p::first-letter {
+      font-size: 1.5rem;
+      font-weight: bold;
+      color: #0077ff;
+    }
