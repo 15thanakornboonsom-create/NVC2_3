@@ -12,6 +12,9 @@
 
 
 <body>
+<<<<<<< HEAD
+    
+=======
 
 <h1 class="">Hello World</h1>
 <h2 class="">Hello everyone</h2>
@@ -30,6 +33,7 @@ Harum odit amet quia numquam quos repellat hic a enim rerum veniam, culpa aliqua
 Accusantium illo ad neque iste odio nobis assumenda ea praesentium maxime voluptas, minus ipsa et blanditiis alias placeat quas repudiandae iusto. Qui nobis numquam corporis excepturi. Esse officiis dolorum veniam.
 Facilis qui placeat necessitatibus veniam libero eum error in odit, obcaecati quasi, sunt debitis. Officiis dolor, voluptas odio officia, dolores, eos incidunt nam provident itaque unde laudantium quibusdam vitae harum.
 Voluptatibus deleniti architecto saepe quaerat, et nulla, inventore eaque est rem consequuntur veniam nemo ipsum atque expedita maxime! Amet aliquam doloremque nihil ea unde ut, id libero distinctio deserunt sed.</p>
+>>>>>>> 7bd0350aba914ff93eb651056ea05421ec81c5ad
 
 </body>
 
