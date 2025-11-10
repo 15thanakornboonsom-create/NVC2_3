@@ -15,6 +15,9 @@
  
 <h1 class="">Hello World</h1>
 <h2 class="">Love</h2>
+
+<img src="./img/1.jpg" alt="" class="">
+
 <p class="">Lorem ipsum dolor sit amet consectetur, adipisicing elit. Quo nemo exercitationem sapiente nihil nobis magnam est, expedita eos a quis nisi ipsa tempora ex veritatis qui? Reprehenderit nihil doloribus deleniti.</p>
 
 </body>
