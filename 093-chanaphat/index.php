@@ -13,8 +13,10 @@
 
 <body>
 
-<h1 class="">TimeThai</h1>
-<h2 class="">DekInw</h2>
+<h1 class="">chana</h1>
+<h2 class="">phat</h2>
+
+<img src="./img/1.jpg" alt="" class="">
 
 <p class="">Lorem ipsum dolor sit amet consectetur adipisicing elit. Molestiae similique fugit ea deserunt ab nihil, quos iusto veniam a culpa iure sed! Est fuga placeat ut? Nostrum ut velit sit!
 Ab soluta similique consectetur reprehenderit ipsum eaque illum odio tenetur, eligendi libero asperiores magnam voluptatibus ex officiis voluptas. Molestias assumenda illum consectetur necessitatibus quam eos, magni fugiat obcaecati aspernatur earum?

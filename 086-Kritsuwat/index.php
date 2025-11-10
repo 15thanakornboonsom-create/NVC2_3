@@ -15,6 +15,9 @@
 
 <h1 class="">TimeThai</h1>
 <h2 class="">DekInw</h2>
+
+<img src="./img/1.jpg" alt="" class="">
+
 <p class="">Lorem ipsum dolor sit amet consectetur adipisicing elit. Molestiae similique fugit ea deserunt ab nihil, quos iusto veniam a culpa iure sed! Est fuga placeat ut? Nostrum ut velit sit!
 Ab soluta similique consectetur reprehenderit ipsum eaque illum odio tenetur, eligendi libero asperiores magnam voluptatibus ex officiis voluptas. Molestias assumenda illum consectetur necessitatibus quam eos, magni fugiat obcaecati aspernatur earum?
 Quasi laudantium dolore consequuntur vero nihil necessitatibus, exercitationem, quae molestias incidunt corrupti ea officia recusandae vel ab assumenda laboriosam nam asperiores commodi sint quibusdam! Tempore consequatur animi vero adipisci accusantium.
