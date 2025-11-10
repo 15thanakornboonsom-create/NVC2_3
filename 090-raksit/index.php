@@ -15,6 +15,9 @@
 
 <h1 class="">Hello wa</h1>
 <h2 class="">Hello ToroiTo</h2>
+
+<img src="./img/1.jpg" alt="" class="">
+
 <p class="">Lorem ipsum dolor sit amet, consectetur adipisicing elit. Ad harum doloribus omnis illum porro tempore consequatur quae! Quaerat, perspiciatis illum! Nesciunt architecto perferendis sunt et, tempore non debitis pariatur enim.
 Quis sed nisi iure dolorum? Veritatis accusamus explicabo nostrum blanditiis. Quas voluptatem ipsum aperiam, doloremque laboriosam distinctio sint explicabo dignissimos natus omnis, aliquam ipsam aspernatur consectetur, accusamus nisi laudantium placeat?
 Cupiditate quod veniam laboriosam velit quis obcaecati impedit nisi vel recusandae repellendus nostrum quasi, quibusdam placeat, beatae magni qui quaerat adipisci unde optio cumque blanditiis inventore ducimus animi? Earum, nam.
