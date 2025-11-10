@@ -12,13 +12,13 @@
 
 
 <body>
-<<<<<<< HEAD
-    
-=======
+
+
 
 <h1 class="">Hello World</h1>
 <h2 class="">Hello everyone</h2>
-<p class="">Lorem ipsum dolor, sit amet consectetur adipisicing elit. Autem possimus vero unde officia magnam odio nam sit, repellat, atque est consectetur explicabo assumenda iure fuga deleniti aperiam animi ipsam facere.
+<p class="">
+    Lorem ipsum dolor, sit amet consectetur adipisicing elit. Autem possimus vero unde officia magnam odio nam sit, repellat, atque est consectetur explicabo assumenda iure fuga deleniti aperiam animi ipsam facere.
 Fugiat nisi optio laudantium? Aut animi reprehenderit sed praesentium quisquam eum esse repellendus facere consectetur exercitationem incidunt laboriosam obcaecati, ratione deserunt unde dicta ipsa quae sint optio accusamus, harum sapiente!
 Sint mollitia fugit blanditiis, ducimus, quasi delectus necessitatibus veritatis expedita ad saepe culpa distinctio dolor non. Harum ipsam officia, est non iusto deserunt, iure maxime eligendi cum accusantium voluptatum vitae.
 Perspiciatis nostrum ipsa ratione magnam, quos optio nam alias soluta accusantium magni iure numquam dolorum cupiditate! Laborum tempore obcaecati quam, doloribus tenetur laboriosam beatae praesentium officiis distinctio, minus, suscipit fuga.
@@ -32,8 +32,10 @@ Eum esse cumque molestias similique! Perspiciatis corrupti, nostrum laborum magn
 Harum odit amet quia numquam quos repellat hic a enim rerum veniam, culpa aliquam nostrum beatae. Recusandae, officiis dignissimos cum dolor aliquid distinctio iure ea porro quibusdam repellat rem doloribus!
 Accusantium illo ad neque iste odio nobis assumenda ea praesentium maxime voluptas, minus ipsa et blanditiis alias placeat quas repudiandae iusto. Qui nobis numquam corporis excepturi. Esse officiis dolorum veniam.
 Facilis qui placeat necessitatibus veniam libero eum error in odit, obcaecati quasi, sunt debitis. Officiis dolor, voluptas odio officia, dolores, eos incidunt nam provident itaque unde laudantium quibusdam vitae harum.
-Voluptatibus deleniti architecto saepe quaerat, et nulla, inventore eaque est rem consequuntur veniam nemo ipsum atque expedita maxime! Amet aliquam doloremque nihil ea unde ut, id libero distinctio deserunt sed.</p>
->>>>>>> 7bd0350aba914ff93eb651056ea05421ec81c5ad
+Voluptatibus deleniti architecto saepe quaerat, et nulla, inventore eaque est rem consequuntur veniam nemo ipsum atque expedita maxime! Amet aliquam doloremque nihil ea unde ut, id libero distinctio deserunt sed.
+</p>
+
+
 
 </body>
 
