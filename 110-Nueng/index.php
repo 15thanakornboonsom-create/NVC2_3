@@ -15,6 +15,9 @@
     
 <h1 class="">Hello world</wbr></h1>
 <h2 class="">one</h2>
+
+<img src="./img/1.jpg" alt="" class="">
+
 <p class="">Lorem ipsum dolor, sit amet consectetur adipisicing elit. Consequuntur fugit accusamus, repudiandae magnam fugiat iusto aliquid doloribus eaque. Reprehenderit ea sequi molestias temporibus ducimus rem maxime dolorum consequatur, eum nisi.
 Optio, in odio unde quia laboriosam molestiae similique dolorem. Quos modi, dignissimos, molestias illo nesciunt adipisci consectetur a neque quasi, repudiandae veritatis doloribus reprehenderit aperiam atque mollitia dolore perspiciatis itaque!
 Minus reprehenderit voluptatum labore nesciunt cumque itaque cum minima, aliquid alias officia obcaecati neque odio eveniet? Tenetur nesciunt placeat cum doloribus id distinctio aperiam sequi inventore error? Recusandae, velit! Cum.
