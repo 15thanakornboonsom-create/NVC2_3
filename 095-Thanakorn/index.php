@@ -10,11 +10,13 @@
 </head>
 
 
-
 <body>
     
-<h1 class="">pls speed i need this</h1>
+<h1 class="">pls speedi need this.</h1>
 <h2 class="">my mom is kinda homeless</h2>
+
+<img src="./img/1.jpg" alt="" class="">
+
 <p class="">Lorem ipsum dolor sit amet, consectetur adipisicing elit. Accusamus quo, esse ratione fugiat ad reiciendis illum nemo iste odit eveniet dolore labore sit delectus eligendi excepturi! Perspiciatis aut repudiandae repellat!
 Quasi repellat mollitia reprehenderit eius vel provident, perspiciatis, enim illo dolores iste ad dignissimos. Mollitia, nam molestiae? Ipsum ipsa ipsam, adipisci cupiditate ad voluptatem quisquam, totam illum quae amet hic!
 Cupiditate quibusdam repudiandae delectus nostrum ut pariatur consequatur. Optio nobis pariatur, atque maiores tempora, est officia laborum perspiciatis illum debitis consectetur voluptates! Est optio consequuntur at adipisci laudantium. Ipsa, vitae.
@@ -32,7 +34,6 @@ Quam placeat dolor magni tenetur nesciunt ad assumenda eius laborum natus, delen
 Voluptate perferendis impedit nihil officia et, repellendus obcaecati totam distinctio deserunt quod saepe similique quis ad nemo architecto? Porro rerum dignissimos consectetur eligendi. Itaque blanditiis fugit officia quaerat perferendis magnam.</p>
 
 </body>
-
 
 
 </html>

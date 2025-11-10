@@ -13,8 +13,11 @@
 
 <body>
     
-<h1 class="">helloWworld</h1>
+<h1 class="">helloWorld!</h1>
 <h2 class="">world heello</h2>
+
+<img src="./img/1.jpg" alt="" class="">
+
 <p class="">Lorem ipsum dolor, sit amet consectetur adipisicing elit. Quas sint quam, alias laudantium ut harum itaque voluptatibus animi reprehenderit odio aperiam exercitationem, minus voluptatum culpa incidunt quos. Facere, accusantium eveniet?
 Laudantium nesciunt molestiae atque iure? Esse quibusdam explicabo nisi, iusto non, praesentium quod vero sint exercitationem aliquid eligendi perspiciatis qui eveniet ad unde cupiditate dolor dolorum magni commodi eius obcaecati.
 Mollitia tenetur quaerat molestiae, reprehenderit, recusandae iure ducimus aliquid quibusdam labore cumque voluptate culpa debitis dolores animi ad ullam, obcaecati expedita hic fuga? Facilis consequatur nisi architecto repudiandae, at obcaecati.
