@@ -9,6 +9,9 @@
 <body>
 <h1 class="">sawad</h1>
 <h2 class="">wawa</h2>
+
+<img src="./img/1.jpg" alt="" class="">
+
 <p class="">Lorem ipsum dolor sit amet consectetur, adipisicing elit. Reiciendis quas ipsa sapiente rem deleniti illum. Molestias modi perspiciatis aperiam illo voluptas reprehenderit dolorum voluptates provident sint earum adipisci, nesciunt ducimus.
 Qui repudiandae, voluptas nobis corrupti, esse omnis harum quasi porro consequuntur excepturi eligendi. Nemo harum cupiditate consequatur sit, itaque deleniti delectus quibusdam in, doloribus modi quo veniam ipsum praesentium quia?
 Neque suscipit aperiam quae maxime velit, nostrum labore dolor voluptatibus iste dolorum, asperiores error totam ab incidunt at quibusdam voluptas eos aut tenetur ipsum vero cupiditate animi? Quisquam, nulla nam.
