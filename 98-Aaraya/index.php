@@ -6,7 +6,7 @@
     <title>Hello</title>
 </head>  
 
-
+<img src="./img/1.jpg" alt="" class="">
 
 <body>
 
