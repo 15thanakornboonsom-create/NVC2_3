@@ -17,6 +17,9 @@
 
 <h1 class="">Hello World</h1>
 <h2 class="">Hello everyone</h2>
+
+<img src="./img/1.jpg" alt="" class="">
+
 <p class="">
     Lorem ipsum dolor, sit amet consectetur adipisicing elit. Autem possimus vero unde officia magnam odio nam sit, repellat, atque est consectetur explicabo assumenda iure fuga deleniti aperiam animi ipsam facere.
 Fugiat nisi optio laudantium? Aut animi reprehenderit sed praesentium quisquam eum esse repellendus facere consectetur exercitationem incidunt laboriosam obcaecati, ratione deserunt unde dicta ipsa quae sint optio accusamus, harum sapiente!
