@@ -9,11 +9,16 @@
     <title>sixseven</title>
 </head>
 
-
+<link rel="stylesheet" href="style.css">
 <body>
-    
-<h1 class="">pls speedi need this.</h1>
-<h2 class="">my mom is kinda homeless</h2>
+
+
+<div class="div">
+    <h1 class="h1">pls speed i need this.</h1>
+</div>
+
+
+<h2 class="h2">my mom is kinda homeless</h2>
 
 <img src="./img/1.jpg" alt="" class="">
 

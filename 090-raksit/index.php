@@ -8,13 +8,14 @@
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
     <title>wawa</title>
 </head>
-
-
+<link rel="stylesheet" href="style.css">
 
 <body>
 
-<h1 class="">Hello wa</h1>
-<h2 class="">Hello ToroiTo</h2>
+<div class="div">
+    <h1 class="h1">wawa</h1>
+</div>
+<h2 class="h2">Hello ToroiTo</h2>
 
 <img src="./img/1.jpg" alt="" class="">
 
