@@ -8,13 +8,16 @@
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
     <title>Ez</title>
 </head>
-
-
+<link rel="stylesheet" href="style.css">
 
 <body>
 
-<h1 class="">TimeThai</h1>
-<h2 class="">DekInw</h2>
+<div class="div">
+    <h1 class="h1">TimeThai</h1>
+</div>
+
+
+<h2 class="h2">DekInw</h2>
 
 <img src="./img/1.jpg" alt="" class="">
 
