@@ -13,7 +13,6 @@
     <title>gold digger</title>
 </head>
 
-
 <body>
     
 <!-- NavBar -->
