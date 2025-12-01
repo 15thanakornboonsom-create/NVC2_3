@@ -16,10 +16,13 @@
 <body>
 
 <!-- ส่วนของNavbar -->
+<nav class="navbar"></Nav>
 
 <!-- ส่วนของเนื้อหา -->
+<main class="main"></main>
 
 <!-- ส่วนของ footer -->
+<footer class="footer"></footer>
 
 </body>
 

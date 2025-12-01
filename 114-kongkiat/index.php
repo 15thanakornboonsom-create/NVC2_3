@@ -16,10 +16,13 @@
 <body>
 
 <!-- ส่วนของNavbar -->
+<navbar class="navbar"></navbar>
 
 <!-- ส่วนของเนื้อหา -->
 
+
 <!-- ส่วนของ footer -->
+
 
 </body>
 
