@@ -9,28 +9,22 @@
 
     <link rel="stylesheet" href="style.css">
 
-    <title>Nam Ploy</title>
+    <title>Hello</title>
 </head>
 
 
 
 <body>
-<!--ส่วนของ Navbar -->
-<nav class="navbar">
 
-<a href="index.php" class="a-navbar">หน้าแรก</a>
-<a href="test.php" class="a-navbar">หน้า test</a>
-
-</nav>
 
 
 <div class="div">
-    <h1 class="h1">Nikhayawn</h1>
+    <h1 class="h1">Hello World</h1>
 </div>
- 
 
 
-<h2 class="h2">Nikhaywn</h2>
+
+<h2 class="h2">Hello everyone</h2>
 
 <img src="./img/1.jpg" alt="" class="">
 

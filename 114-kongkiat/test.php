@@ -6,24 +6,18 @@
 
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <title>Ez</title>
+    <title>18+</title>
 </head>
 <link rel="stylesheet" href="style.css">
 
 <body>
-<!-- ส่วนของ Navbar -->
-<nav class="navbar">
 
-<a href="index.php" class="a-navber">หน้้าแรก</a>
-<a href="test.php" class="a-navber">หน้า test</a>
-
-</nav>
- <div class="div">
-     <h1 class="">Noey</h1>
+<div class="div">
+    <h1 class="h1">ez ez ez</h1>
 </div>
 
 
-<h2 class="h2">Thanaporn</h2>
+<h2 class="h2">home</h2>
 
 <img src="./img/1.jpg" alt="" class="">
 
