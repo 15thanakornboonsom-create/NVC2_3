@@ -6,14 +6,14 @@ img {
 .div {
     width: 100%;
     height: 300px;
-    background-color: #00a321;
+    background-color: #a30095;
     display: flex;
     justify-content: center;
     align-items: center;
 }
 
 .h1 {
-color: brown;
+color: rgb(8, 12, 22);
 }
 
 .h2 {

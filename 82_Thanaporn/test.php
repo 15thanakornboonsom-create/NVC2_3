@@ -11,7 +11,13 @@
 <link rel="stylesheet" href="style.css">
 
 <body>
+<!-- ส่วนของ Navbar -->
+<nav class="navbar">
 
+<a href="index.php" class="a-navber">หน้้าแรก</a>
+<a href="test.php" class="a-navber">หน้า test</a>
+
+</nav>
  <div class="div">
      <h1 class="">Noey</h1>
 </div>
