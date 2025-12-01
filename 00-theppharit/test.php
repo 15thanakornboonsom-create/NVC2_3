@@ -6,32 +6,25 @@
 <head>
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
-   
+
     <link rel="stylesheet" href="style.css">
-   
-    <title>kopkap</title>
+
+    <title>Hello</title>
 </head>
 
 
 
-<body>   
-<!-- ส่วนของ Navbar -->
-<nav class="navbar">
-
-<a href="index.php" class="a-navbar">หน้าแรก</a>
-<a href="test.php" class="a-navbar">หน้า test</a>
-
-</nav>
+<body>
 
 
 
 <div class="div">
-    <h1 class="h1">phatchaaaaaa</h1>
+    <h1 class="h1">Hello World</h1>
 </div>
-  
 
 
-<h2 class="h2">phatchaaaaa</h2>
+
+<h2 class="h2">Hello everyone</h2>
 
 <img src="./img/1.jpg" alt="" class="">
 
