@@ -6,25 +6,25 @@
 <head>
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
-   
+
     <link rel="stylesheet" href="style.css">
-   
-    <title>kopkap</title>
+
+    <title>Nam Phet</title>
 </head>
 
 
 
-<body>+
+<body>
 
 
-
+ 
 <div class="div">
-    <h1 class="h1">phatchaaaaaa</h1>
+    <h1 class="h1">Nikhawan</h1>
 </div>
-  
 
 
-<h2 class="h2">phatchaaaaa</h2>
+
+<h2 class="h2">Nikhawan</h2>
 
 <img src="./img/1.jpg" alt="" class="">
 
@@ -45,6 +45,7 @@ Accusantium illo ad neque iste odio nobis assumenda ea praesentium maxime volupt
 Facilis qui placeat necessitatibus veniam libero eum error in odit, obcaecati quasi, sunt debitis. Officiis dolor, voluptas odio officia, dolores, eos incidunt nam provident itaque unde laudantium quibusdam vitae harum.
 Voluptatibus deleniti architecto saepe quaerat, et nulla, inventore eaque est rem consequuntur veniam nemo ipsum atque expedita maxime! Amet aliquam doloremque nihil ea unde ut, id libero distinctio deserunt sed.
 </p>
+
 
 
 

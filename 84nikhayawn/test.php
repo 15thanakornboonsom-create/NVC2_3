@@ -6,25 +6,25 @@
 <head>
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
-   
+
     <link rel="stylesheet" href="style.css">
-   
-    <title>kopkap</title>
+
+    <title>Nam Ploy</title>
 </head>
 
 
 
-<body>+
+<body>
 
 
 
 <div class="div">
-    <h1 class="h1">phatchaaaaaa</h1>
+    <h1 class="h1">Nikhayawn</h1>
 </div>
-  
+ 
 
 
-<h2 class="h2">phatchaaaaa</h2>
+<h2 class="h2">Nikhaywn</h2>
 
 <img src="./img/1.jpg" alt="" class="">
 
