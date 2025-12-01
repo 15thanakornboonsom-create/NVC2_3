@@ -7,14 +7,19 @@
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
     <title>Hello</title>
+    <link rel="stylesheet" href="style.css">
 </head>
 
 
-
 <body>
-    
-<h1 class="">Hello world</wbr></h1>
-<h2 class="">one</h2>
+
+
+<div class="div">
+    <h1 class="h1">Hello.</h1>
+</div>
+
+
+<h2 class="h2">one</h2>
 
 <img src="./img/1.jpg" alt="" class="">
 
