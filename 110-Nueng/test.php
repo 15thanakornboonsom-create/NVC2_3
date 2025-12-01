@@ -13,6 +13,13 @@
 
 <body>
 
+<!-- ส่วนของ Navbar -->
+<nav class="navbar">
+
+<a href="index.php" class="a-navber">หนเ้าแรก</a>
+<a href="test.php" class="a-navber">หน้า test</a>
+
+</nav>
 
 <div class="div">
     <h1 class="h1">Hello.</h1>
