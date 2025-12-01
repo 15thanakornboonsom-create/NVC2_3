@@ -24,7 +24,6 @@
 
 
 
-
 <h2 class="h2">Hello everyone</h2>
 
 <img src="./img/1.jpg" alt="" class="">
